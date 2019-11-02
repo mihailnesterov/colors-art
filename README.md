@@ -1,1 +1,1 @@
-# colors-art 
+# colors-art wp theme 
