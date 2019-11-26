@@ -29,19 +29,18 @@
 										</div>
 										<div class="card-text">
 											<div class="shedule-block p-2">
-												<h5>Семейное образование</h5>
-												<p>с 11-00 до 15-00</p>
-												<p>Винтова А.В.</p>
+												<h5><a href="/courses/academicheskiy-risunok">Академический рисунок</a></h5>
+												<p>(для взрослых от 15 лет)</p>
+												<p>12-00</p>
 											</div>
 											<div class="shedule-block p-2">
-												<h5><a href="/courses/academicheskiy-risunok" class="">Академический рисунок</a></h5>
-												<p>с 16-00 до 18-30</p>
-												<p>Винтова А.В.</p>
+												<h5>Рисунок</h5>
+												<p>(для детей от 13-16 лет)</p>
+												<p>17-00</p>
 											</div>
 											<div class="shedule-block p-2">
-												<h5><a href="/courses/detskaya-studiya" class="">Детская творческая мастерская (8-14 лет)</a></h5>
-												<p>с 19-00 до 20-00</p>
-												<p>Винтова А.В.</p>
+												<h5><a href="/courses/givopis">Живопись (маслом, акрилом)</a></h5>
+												<p>19-00</p>
 											</div>
 										</div>
 									</div>
@@ -53,24 +52,17 @@
 										</div>
 										<div class="card-text">
 											<div class="shedule-block p-2">
-												<h5><a href="/courses/kitayskaya-givopis/kitayskaya-givopis-gunbi" class="">Китайская живопись "Гунби"</a></h5>
-												<p>с 11-00 до 13-00</p>
-												<p>Алексеева О.А.</p>
+												<h5><a href="/courses/academicheskiy-risunok">Академический рисунок</a></h5>
+												<p>(для взрослых от 15 лет)</p>
+												<p>12-00</p>
 											</div>
 											<div class="shedule-block p-2">
-												<h5>Семейное образование</h5>
-												<p>с 15-00 до 18-00</p>
-												<p>Винтова А.В.</p>
+												<h5><a href="/courses/givopis">Живопись (маслом, акрилом)</a></h5>
+												<p>16-00</p>
 											</div>
 											<div class="shedule-block p-2">
-												<h5><a href="/courses/kitayskaya-givopis/kitayskaya-givopis-gunbi" class="">Китайская живопись "Гунби"</a></h5>
-												<p>с 19-00 до 21-00</p>
-												<p>Валдаева Н.В.</p>
-											</div>
-											<div class="shedule-block p-2">
-												<h5><a href="/courses/coloristika" class="">Колористика</a></h5>
-												<p>с 19-00 до 21-00</p>
-												<p>Винтова А.В.</p>
+												<h5><a href="/courses/coloristika">Колористика</a></h5>
+												<p>19-00</p>
 											</div>
 										</div>
 									</div>
@@ -82,24 +74,19 @@
 										</div>
 										<div class="card-text">
 											<div class="shedule-block p-2">
-												<h5><a href="/courses/coloristika" class="">Колористика</a></h5>
-												<p>с 12-00 до 14-00</p>
-												<p>Винтова А.В.</p>
+												<h5><a href="/courses/academicheskiy-risunok">Академический рисунок</a></h5>
+												<p>(для взрослых от 15 лет)</p>
+												<p>12-00</p>
 											</div>
 											<div class="shedule-block p-2">
-												<h5><a href="/courses/detskaya-studiya" class="">Детская творческая мастерская (8-14 лет)</a></h5>
-												<p>с 15-00 до 16-00</p>
-												<p>Винтова А.В.</p>
+												<h5><a href="/courses/detskaya-studiya" class="">Детская творческая мастерская</a></h5>
+												<p>(от 8 до 12 лет)</p>
+												<p>17-00</p>
 											</div>
 											<div class="shedule-block p-2">
-												<h5><a href="/courses/detskaya-studiya" class="">Детская творческая мастерская (8-14 лет)</a></h5>
-												<p>с 17-00 до 18-00</p>
-												<p>Винтова А.В.</p>
-											</div>
-											<div class="shedule-block p-2">
-												<h5><a href="/courses/kitayskaya-givopis/kitayskaya-givopis-mogyfa" class="">Китайская живопись "МОГУФА"</a></h5>
-												<p>с 18-30 до 20-30</p>
-												<p>Алексеева О.А.</p>
+												<h5><a href="/courses/kitayskaya-givopis/kitayskaya-givopis-gunby" >Китайская живопись в стиле Гунби</a></h5>
+												<p>для взрослых</p>
+												<p>19-00</p>
 											</div>
 										</div>
 									</div>
@@ -111,24 +98,18 @@
 										</div>
 										<div class="card-text">
 											<div class="shedule-block p-2">
-												<h5>Семейное образование</h5>
-												<p>с 12-00 до 15-00</p>
-												<p>Винтова А.В.</p>
+												<h5>Занятия по запросам</h5>
+												<p>12-00</p>
 											</div>
 											<div class="shedule-block p-2">
-												<h5><a href="/courses/detskaya-studiya" class="">Детская творческая мастерская (4-7 лет)</a></h5>
-												<p>с 15-30 до 16-30</p>
-												<p>Усачев Ф.Д.</p>
-											</div>
-												<div class="shedule-block p-2">
-												<h5><a href="/courses/detskaya-studiya" class="">Детская творческая мастерская (4-7 лет)</a></h5>
-												<p>с 17-00 до 18-00</p>
-												<p>Усачев Ф.Д.</p>
+												<h5>Рисунок</h5>
+												<p>(для детей от 13-16 лет)</p>
+												<p>15-00</p>
 											</div>
 											<div class="shedule-block p-2">
-												<h5><a href="/courses/akvarel" class="">Акварель</a></h5>
-												<p>с 19-00 до 21-00</p>
-												<p>Усачев Ф.Д.</p>
+												<h5><a href="/courses/akvarel" class="">Акварельная живопись</a></h5>
+												<p>(для взрослых)</p>
+												<p>19-00</p>
 											</div>
 										</div>
 									</div>
@@ -140,13 +121,19 @@
 										</div>
 										<div class="card-text">
 											<div class="shedule-block p-2">
-												<h5><a href="/courses/givopis" class="">Классическая живопись маслом и акрилом</a></h5>
-												<p>с 19-00 до 21-00</p>
-												<p>Березина М.А.</p>
+												<h5><a href="/courses/givopis">Живопись (маслом, акрилом)</a></h5>
+												<p>по запросам</p>
+												<p>13-00</p>
+											</div>
+											<div class="shedule-block p-2">
+												<h5>Рисунок</h5>
+												<p>(для детей от 13-16 лет)</p>
+												<p>15-00</p>
 											</div>
 											<div class="shedule-block p-2">
 												<h5>Наброски живой натуры</h5>
-												<p>с 19:00</p>
+												<p>(для взрослых)</p>
+												<p>19-00</p>
 											</div>
 										</div>
 									</div>
@@ -158,14 +145,14 @@
 										</div>
 										<div class="card-text">
 											<div class="shedule-block p-2">
-												<h5><a href="/courses/kitayskaya-givopis/kitayskaya-givopis-sei" class="">Китайская живопись "СЕИ"</a></h5>
-												<p>с 12-00 до 14-00</p>
-												<p>Алексеева О.А.</p>
+												<h5><a href="/courses/akvarel" class="">Акварельная живопись</a></h5>
+												<p>(для взрослых)</p>
+												<p>12-00</p>
 											</div>
 											<div class="shedule-block p-2">
-												<h5><a href="/courses/givopis" class="">Классическая живопись маслом и акрилом</a></h5>
-												<p>с 15-00 до 18-00</p>
-												<p>Березина М.А.</p>
+												<h5><a href="/courses/kitayskaya-givopis/kitayskaya-givopis-sei">Мастер-класс "Китайская живопись в стиле Сеи"</a></h5>
+												<p>(для взрослых)</p>
+												<p>12-00</p>
 											</div>
 										</div>
 									</div>
@@ -177,24 +164,23 @@
 										</div>
 										<div class="card-text">
 											<div class="shedule-block p-2">
-												<h5><a href="/courses/illustration" class="">Мастер-классы</a></h5>
-												<p>с 12-00 до 14-00</p>
-												<p>Винтова А.В.</p>
+												<h5><a href="/courses/detskaya-studiya" class="">Детская творческая мастерская</a></h5>
+												<p>(от 8 до 12 лет)</p>
+												<p>15-00</p>
 											</div>
 											<div class="shedule-block p-2">
-												<h5><a href="/courses/detskaya-studiya" class="">Детская творческая мастерская (8-14 лет)</a></h5>
-												<p>с 15-00 до 16-00</p>
-												<p>Винтова А.В.</p>
-											</div>
-											<div class="shedule-block p-2">
-												<h5><a href="/courses/coloristika" class="">Колористика</a></h5>
-												<p>с 17-00 до 20-00</p>
-												<p>Винтова А.В.</p>
+												<h5>Мастер-класс «Колористика (цветоведение)»</h5>
+												<p>(для взрослых)</p>
+												<p>16-30</p>
 											</div>
 										</div>
 									</div>
 								</div>	<!-- end card -->
 							</div>	<!-- end card-columns -->
+
+							<div class="col-12 py-5 px-4 text-center">
+								<h4><span class="text-danger">***</span> Обязательна предварительная запись по телефону 8-929-909-29-25 или WhatsApp. Место проведения занятий: г. Москва ул. Средняя Первомайская д.4 оф.18</h4>
+							</div>
 						</div>	<!-- end row -->
 					</div>	<!-- end col -->
 				</div>	<!-- end row -->
