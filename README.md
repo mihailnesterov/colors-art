@@ -1,4 +1,4 @@
-# colors-art wp theme 
+# colors-art wordpress theme 
 
-Wordpress Theme for https://colors-art.ru/
+Wordpress Theme for painting studio Colors-Art
 Robokassa payment integration
