@@ -248,17 +248,14 @@ if( 'Исполняемый PHP код в контенте' ){
 
 
 // Оплата Robokassa - 15-09-19
-
+// Robokassa payment integration
 function pay_to_robokassa($summ=0,$payment_type=null) {
 
-	$mrh_login = "colors-art";
-	$mrh_pass1 = "N9I829r6HjaZmBPPkweJ";
+	$mrh_login = "your_robokassa_login";
+	$mrh_pass1 = "your_robokassa_pass";
 	
 	// номер заказа
 	// number of order
-	//$inv_id = substr(sha1(rand()), 0, 6);
-	//date_default_timezone_set('Europe/Moscow');
-	//$inv_id = date('dmy-His');
 	$inv_id = get_the_ID();
 	
 	// сумма заказа
@@ -293,8 +290,6 @@ function pay_to_robokassa($summ=0,$payment_type=null) {
 	      "&Description=$inv_desc&SignatureValue=$crc&Shp_item=$shp_item".
 	      "&Culture=$culture&Encoding=$encoding";
 	
-	//echo '<a href="' . $url . '" class="btn btn-success btn-lg" target="_blank"><i class="fa fa-check"></i> Оплатить</a>';
-	
 	return $url;
 }
 
@@ -322,7 +317,6 @@ function get_the_page_children($id) {
 	$page_children = get_page_children( $id, $all_wp_pages );
 	
 	// выводим на экран дочерние страницы (echo) или возвращаем результат (return)
-	//echo '<pre>' . print_r( $page_children, true ) . '</pre>';
 	return $page_children;
 }
 
